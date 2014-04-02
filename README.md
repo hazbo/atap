@@ -36,7 +36,9 @@ looks like this:
 
 Then you simply pass through that file as the param when you run atap
 
-	$ atap config.json
+```bash
+$ atap config.json
+```
 
 You may call this file what you wish. Your given command with arguments
 will then be ran the number of times you specify. In the case above, five.
